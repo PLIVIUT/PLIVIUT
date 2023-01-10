@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm POPESCU LIVIU-NICOLAE</h1>
 <h3 align="center">A passionate frontend developer trainee from Romania</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript**
+- 🌱 I’m currently learning **HTML, CSS, JavaScript, C#, Angular, .Net**
 
-- 🤝 I’m looking for help with **Front End Development**
+- 🤝 I’m looking for help with **Front End Development and Software Development**
 
 - 📫 How to reach me **p.liviut@yahoo.com**
 
