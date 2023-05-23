@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **p.liviut@yahoo.com**
 
-<h3 align="left">Connect with me: https://www.linkedin.com/in/popescu-liviu-44b495183/</h3>
+<h3 align="left">Connect with me: https://www.linkedin.com/in/pliviut/</h3>
 <p align="left">
 </p>
 
