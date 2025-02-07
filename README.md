@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm POPESCU LIVIU-NICOLAE</h1>
-<h3 align="center">A passionate web developer trainee from Romania</h3>
+<h3 align="center">A passionate ServiceNow Developer from Romania</h3>
 
-- 🌱 I’m currently learning **HTML, CSS, JavaScript, React, C#, .Net, Node.js**
-
-- 🤝 I’m looking for help with **Web Development**
+- 🌱 I’m currently learning **Angular**
 
 - 📫 How to reach me **p.liviut@yahoo.com**
 
